@@ -9,7 +9,7 @@ Para este trabajo se nos pidió escribir un programa simple que realice lo sigui
   - Imprimir cualquier texto de la pila en cualquier momento
   - Permitir comparar tamaños
 
-Para ello se decició utilizar el lenguaje de programación Python.
+Para ello se decidió utilizar el lenguaje de programación Python y se logró crear un programa que realiza lo solicitado.
 
 ## Instalación
 
