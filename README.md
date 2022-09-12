@@ -29,7 +29,7 @@ Ahora, para usar el programa como tal basta con escribir en la consola los coman
 
 ## Cómo contribuir
 
-Para el que lo desee o le interese, puede realizar un pull request con los cambios que quiera añadir al programa, pero es muy probable que abandone el repositorio así que hágalo bajo su propio riesgo.
+Para el que lo desee o le interese, puede realizar un pull request con los cambios que quiera añadir al programa o  un fork, pero es muy probable que abandone el repositorio así que hágalo bajo su propio riesgo.
 
 ## Licencia
 
