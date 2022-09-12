@@ -101,6 +101,10 @@ def menu_largos():
                 else:
                     log_info("---Se obtuvieron los textos más cortos")
                     print("Los textos mas cortos (del mismo tamaño) son: ", size_array)
+            else:
+                log_error("[ERROR] Opcion invalida")
+                print("****Opcion no válida. Por favor intente nuevamente.****")
+                continue
 
             print("------------------------------------")
 
