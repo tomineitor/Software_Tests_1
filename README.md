@@ -1,1 +1,38 @@
-# Software_Tests_1
+# Pruebas de Software - Tarea 1
+Autor: Tomás Barber Villalobos
+
+## Descripción
+
+Para este trabajo se nos pidió escribir un programa simple que realice lo siguiente:
+  - Permitir almacenar texto en una pila
+  - Ver cuál es el texto más largo en la pila y el más corto
+  - Imprimir cualquier texto de la pila en cualquier momento
+  - Permitir comparar tamaños
+
+Para ello se decició utilizar el lenguaje de programación Python.
+
+## Instalación
+
+Para instalar el programa basta con realizar un pull del repositorio, o descargar directamente el archivo "main.py".
+
+Es necesario tener Python instalado en su equipo.
+
+## Cómo usar
+
+Para la ejecución del programa es necesario ubicarse en la carpeta donde se encuentre el archivo "main.py" y abrir la consola/terminal desde ahí, luego ejecutar el siguiente commando: 
+```
+python main.py
+```
+Y con esto ya debería estar ejecutandose el programa en la consola.
+
+Ahora, para usar el programa como tal basta con escribir en la consola los comandos que se solicitan mediante pantalla. Uno navega los menus mediante opciones numéricas que debe escribir en la consola, a excepción de cuando uno desea ingresar un texto en la pila, para lo cual uno debe escribir el texto que desea ingresar y luego presionar enter.
+
+## Cómo contribuir
+
+Para el que lo desee o le interese, puede realizar un pull request con los cambios que quiera añadir al programa, pero es muy probable que abandone el repositorio así que hágalo bajo su propio riesgo.
+
+## Licencia
+
+
+
+
